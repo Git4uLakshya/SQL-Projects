@@ -1,1 +1,4 @@
-
+In this project, I analyze international debt data which is collected by The World Bank using SQL
+The dataset contains information about the amount of debt (in USD) owed by developing countries across
+several categories.
+Importing and Cleaning of DATA was done along with DATA Manipulation.
